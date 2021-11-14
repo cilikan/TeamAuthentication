@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "reAcwzLWwDZioyxcLCrEKuK54IaOn6DhfSs9H9bJxZCnfdNfVG4IYtRL3JPROFaDw2nHgLjJ8NCy12XNqF10/g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\faiz9\\Documents\\GitHub\\Authentication_MCC59\\Authentication_MCC59\\Authentication_MCC59.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\faiz9\\.nuget\\packages\\bcrypt.net-core\\1.6.0\\bcrypt.net-core.1.6.0.nupkg.sha512"
+  ],
+  "logs": []
+}
